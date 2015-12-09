@@ -1,0 +1,18 @@
+{
+  "name": "gulp-babel-es6-example",
+  "description": "gulp + babel (es6)",
+  "main": "src/index.js",
+  "authors": [
+    "Maksim Kostromin"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
